@@ -9,11 +9,16 @@ body {
     border-radius: 20%;
     width: 100px;
     height: auto;
+    margin-right: 10px;
 }
 
 #title, .subtitle, .postitle {
     color: white;
     text-transform: uppercase;
+}
+
+#title {
+    margin-bottom: 80px;
 }
 
 a {
