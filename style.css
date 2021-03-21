@@ -39,14 +39,23 @@ a {
     border-radius: 10px;
 }
 
+.post_style {
+    display: flex;
+}
+
+.post_style img {
+    margin: 0px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    padding: 1px;
+    height: 280px;
+}
 
 .post_content {
     margin : 0px;
     margin-bottom: 15px;
-}
-
-.post_image {
-    margin-bottom: 15px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contacts_list {
