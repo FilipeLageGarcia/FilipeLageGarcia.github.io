@@ -56,6 +56,14 @@ a {
     margin-bottom: 15px;
     text-align: left;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    flex-direction: column;
+}
+
+.post_content_link {
+    margin : 0px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contacts_list {
