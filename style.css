@@ -2,6 +2,8 @@ body {
     background: #0A0A0A;
     color: white;
     font-family: 'Franklin Gothic Medium', Verdana, Arial, Tahoma, sans-serif;
+    background-image: url(./image/Background.jpg);
+    background-attachment: fixed;
 }
 
 .avatar {
